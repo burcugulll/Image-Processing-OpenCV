@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonaGiris.iml" filepath="$PROJECT_DIR$/.idea/PythonaGiris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Temel islemler/.idea/Temel islemler.iml" filepath="$PROJECT_DIR$/../Temel islemler/.idea/Temel islemler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TemelCizimler/.idea/TemelCizimler.iml" filepath="$PROJECT_DIR$/../TemelCizimler/.idea/TemelCizimler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../GoruntuIslemeProje/nesne_tanima/.idea/nesne_tanima.iml" filepath="$PROJECT_DIR$/../../GoruntuIslemeProje/nesne_tanima/.idea/nesne_tanima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../GoruntuIslemeProje/proje/.idea/proje.iml" filepath="$PROJECT_DIR$/../../GoruntuIslemeProje/proje/.idea/proje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../GoruntuIslemeProje/proje2/.idea/proje2.iml" filepath="$PROJECT_DIR$/../../GoruntuIslemeProje/proje2/.idea/proje2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../GoruntuIslemeProje/venv/.idea/venv.iml" filepath="$PROJECT_DIR$/../../GoruntuIslemeProje/venv/.idea/venv.iml" />
+    </modules>
+  </component>
+</project>
